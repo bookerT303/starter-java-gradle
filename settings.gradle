@@ -1,0 +1,4 @@
+rootProject.name = 'starter'
+
+include "applications:starter"
+
